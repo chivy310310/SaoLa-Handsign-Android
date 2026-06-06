@@ -132,9 +132,6 @@ The primary objectives of SaoLa Handsign are:
   <img src="https://github.com/user-attachments/assets/51d82a6a-765f-4291-9fcc-745ce54f59e9" width="220">
   <img src="https://github.com/user-attachments/assets/c9940da8-c131-4c3a-87a3-7692db879118" width="220">
   <img src="https://github.com/user-attachments/assets/421defe2-945d-48c6-af53-84e180ee8b1d" width="220">
-</p>
-
-<p align="center">
   <img src="https://github.com/user-attachments/assets/d0cb15a0-3cdf-4664-a36d-77d073f322ab" width="220">
   <img src="https://github.com/user-attachments/assets/985b0bba-f7d7-445b-bbf3-46c98a9c3510" width="220">
 </p>
